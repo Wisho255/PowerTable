@@ -9,7 +9,7 @@ public class powerTable {
 		System.out.println("Give me an integer");
 		int l = scan.nextInt();
 		
-		final int NMAX =3;
+		final int NMAX =4;
 		final double XMAX=l;
 		
 		System.out.println("\t Number\tSquared\t  Cube");
